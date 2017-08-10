@@ -1,0 +1,13 @@
+			requisitos
+
+Site com uma única página (index.html), com as 5 músicas
+ preferidas de cada integrante.
+
+Deverá ser criado como o grupo bem entender.
+
+
+			 design
+
+ok - Separar em divs os nomes dos integrantes seguido de suas musicas escolhidas.
+ok - escolher uma cor de fundo.
+ok - para a pagina aplicar bordas nas div para separar.
